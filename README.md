@@ -3,3 +3,4 @@ At the heart of this project is the **water crisis** faced by a fictitious **cou
 This project **progressively challenged** me and offered **less guidance** as I progressed, pushing me to **think critically**. By the end, I didn't just have a **deeper understanding** of **SQL** but also a **blueprint** for how to **approach problems** in future missions.
 I completed the **project over the five weeks** of the SQL module.
 
+![ERD](https://github.com/EbukaObi/Restoring-the-lifeblood-of-Maji-Ndogo/blob/60c5b52f39bf957e3eb7d4df0e2a2129c5b748b8/Images/283158964-64cdacd3-0c75-464d-8a60-3a047f91a7fd.png)
